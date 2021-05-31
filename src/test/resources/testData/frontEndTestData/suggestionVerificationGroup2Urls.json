@@ -1,0 +1,102 @@
+{
+  "testData":
+  [
+         {
+                "url": "https://www.seniority.in//",
+                "queries": ["bathroom"]
+         },
+         {
+                 "url": "https://www.prostockhockey.com/",
+                 "queries": ["fanatics"]
+         },
+         {
+                 "url" : "https://www.hsn.com/",
+                 "queries" : ["Hollywood"]
+         },
+         {
+                 "url": "https://www.discounttwo-wayradio.com/",
+                 "queries": ["macom"]
+         },
+
+         {
+                 "url": "https://www.sylvane.com/",
+                 "queries": ["Accessories"]
+         },
+         {
+                 "url": "https://www.discountbandit.com",
+                 "queries": ["amazon"]
+         },
+         {
+                 "url": "https://www.rods.com/",
+                 "queries": ["rods"]
+         },
+         {
+                 "url": "https://www.tennisplaza.com/",
+                "queries": ["Nike"]
+         },
+         {
+                "url": "https://www.mannlakeltd.com/",
+                "queries": ["nuc"]
+         },
+         {
+                "url" : "https://www.monoprice.com/",
+                "queries" : ["monoprice"]
+         },
+         {
+                 "url" : "https://www.1000bulbs.com",
+                 "queries" : ["LED"]
+         },
+         {
+                "url" : "https://www.ibsupply.com/",
+                "queries" : ["Binder"]
+         },
+         {
+                "url": "https://www.positivepromotions.com/",
+                "queries": ["cotton"]
+         },
+         {
+               "url": "https://glorybee.com/",
+               "queries": ["HONEY"]
+         },
+         {
+                "url": "https://www.poolsupplyunlimited.com",
+                "queries": ["pump"]
+         },
+         {
+                "url": "https://www.sleekshop.com/",
+                "queries": ["wella"]
+         },
+         {
+                "url": "https://store.acpro.com/",
+                "queries": ["condenser"]
+         },
+         {
+                "url": "https://www.greenbuildingsupply.com/",
+                "queries": ["paint"]
+         },
+         {
+                "url": "https://www.medicalsupplydepot.com",
+                "queries": ["attends"]
+         },
+         {
+                "url": "https://www.intheholegolf.com/",
+                "queries": ["axis"]
+         },
+         {
+               "url": "https://www.partswarehouse.com/",
+               "queries": ["dyson"]
+         },
+         {
+                "url": "https://www.kixify.com",
+                "queries": ["air"]
+         },
+         {
+                "url": "https://www.americanvan.com/",
+                "queries": ["aluminum"]
+         },
+         {
+                "url": "https://economydelivers.com",
+                "queries": ["Kitchen"]
+         }
+  ]
+}

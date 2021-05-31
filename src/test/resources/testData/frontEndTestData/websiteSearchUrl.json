@@ -1,0 +1,16 @@
+{
+  "testData": [
+    {
+      "url" : "https://www.Boscovs.com/",
+      "queries" : ["bags","bccbdcd","dress","Watch"]
+    },
+    {
+      "url" : "https://www.firststreetonline.com/",
+      "queries" : ["lamp","JNSADJNAND","bed"]
+    },
+    {
+      "url" : "https://www.shoplc.com/",
+      "queries" : ["Pillow","Knife","ring","XYZABCD"]
+    }
+  ]
+}

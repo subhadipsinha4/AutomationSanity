@@ -1,0 +1,21 @@
+{
+  "testData": [
+//    {
+//      "url" : "https://www.Boscovs.com/",
+//      "queries" : ["bags","bccbdcdssc","dress","Watch"]
+//    },
+//   {
+//      "url" : "https://www.firststreetonline.com/",
+//      "queries" : ["lamp"]
+//    },
+   {
+      "url" : "https://www.globalindustrial.com/",
+      "queries" : ["red chair"]
+    },
+    {
+      "url" : "https://www.totaltools.com.au/",
+      "queries" : ["tool"]
+
+    }
+  ]
+}

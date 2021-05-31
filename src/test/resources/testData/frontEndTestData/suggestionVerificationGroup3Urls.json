@@ -1,0 +1,17 @@
+{
+  "testData":
+  [
+    {
+      "url" : "https://www.ruralking.com/",
+      "queries" : ["gunk"]
+    },
+    {
+      "url": "https://www.schoolhealth.com/",
+      "queries": [ "adult"]
+    },
+    {
+      "url": "https://uspatriottactical.com/",
+      "queries": ["gear"]
+    }
+  ]
+}

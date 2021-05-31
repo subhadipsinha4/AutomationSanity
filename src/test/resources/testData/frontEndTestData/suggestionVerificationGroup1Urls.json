@@ -1,0 +1,16 @@
+{
+  "testData": [
+    {
+      "url" : "http://fashion.unbxdapi.com/",
+      "queries" : ["slim"]
+    },
+    {
+      "url" : "http://demo-unbxd.unbxdapi.com",
+      "queries" : ["slim"]
+    },
+    {
+      "url" : "http://grocery.unbxdapi.com",
+      "queries" : ["slim"]
+    }
+  ]
+}

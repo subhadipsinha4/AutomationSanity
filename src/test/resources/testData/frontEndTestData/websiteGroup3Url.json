@@ -1,0 +1,16 @@
+{
+  "testData": [
+    {
+      "url" : "https://www.ruralking.com/",
+      "queries" : ["g","gu","gun"]
+    },
+    {
+      "url": "https://www.schoolhealth.com/",
+      "queries": ["a","ad", "adult"]
+    },
+    {
+      "url": "https://uspatriottactical.com/",
+      "queries": ["g","ge", "gear"]
+    }
+  ]
+}

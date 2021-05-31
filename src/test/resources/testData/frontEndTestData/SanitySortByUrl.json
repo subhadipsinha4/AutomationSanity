@@ -1,0 +1,18 @@
+{
+  "testData": [
+  {
+      "url" : "https://www.globalindustrial.com/",
+      "queries" : ["bulk rack"]
+    }
+//    {
+//      "url" : "https://www.dillards.com/",
+//      "queries" : ["red shirt"]
+//
+//    },
+//    {
+//      "url" : "https://www.hsn.com/",
+//      "queries" : ["rings"]
+//    }
+
+  ]
+}
